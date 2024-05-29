@@ -1,1 +1,1 @@
-# UptoSkills_Siddhesh_Task1
+Learn Html,CSS & JavaScript also create a .html page with some 3 sections For reference take any example from google.
